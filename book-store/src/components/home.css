@@ -1,0 +1,7 @@
+.dabba{
+    border: 2px solid red;
+    height: 90vh;
+    width:100vw;
+    background: url('./book.jpg');
+    background-size: cover;
+}

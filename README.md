@@ -1,1 +1,5 @@
 # Book-Store
+
+```
+npm start
+```
